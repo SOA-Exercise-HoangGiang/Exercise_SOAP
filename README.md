@@ -7,29 +7,30 @@
 - Cơ sở dữ liệu SQL Server
 - Sử dụng Windows Forms để xây dựng giao diện người dùng
 
-### Kết quả đạt được:
+### Kết quả đạt được: 
 **1. Get All Countries:**
 
-![image](https://github.com/user-attachments/assets/da7c0f3b-7954-4f48-9054-078dd74267dc)
+![image](https://github.com/user-attachments/assets/7de82e6c-d272-4a71-ac36-b39d1580fbdc)
 
-![image](https://github.com/user-attachments/assets/e9d3b72a-7b2d-4b48-8377-15bd746466ef)
+![image](https://github.com/user-attachments/assets/9bdf2cdd-3856-43a4-b4f4-a4b546ec5136)
 
 **2. Get City By Name:**
 
-![image](https://github.com/user-attachments/assets/bd0919b6-ff15-4dd7-a92a-e30d35cfe78a)
+![image](https://github.com/user-attachments/assets/99dbfd70-21a7-461e-b6de-76aa6a1bb83b)
 
-![image](https://github.com/user-attachments/assets/fb9b777d-857a-45a1-b366-c94c02e9fbdb)
+![image](https://github.com/user-attachments/assets/4324d6a1-3879-42b6-a639-e7a7284df75f)
 
 **3. Get Country By Country Code:**
 
-![image](https://github.com/user-attachments/assets/790e3e74-7292-4a31-8a49-b8507cee8aee)
+![image](https://github.com/user-attachments/assets/2abb41ff-2f78-4b14-884e-8dcffee19e4e)
 
-![image](https://github.com/user-attachments/assets/757ce7d5-0aa4-4ed7-8d92-641efa19eb41)
+![image](https://github.com/user-attachments/assets/ff137c3b-196b-423a-9135-aeba47b1675b)
 
 **4. Get Cities By CountryCode:**
 
-![image](https://github.com/user-attachments/assets/52144cf7-ea6e-4c67-8ae7-c8e5c8fef521)
+![image](https://github.com/user-attachments/assets/c4f2d7ed-ee95-48a7-98b2-7ccf5c2a203c)
 
-![image](https://github.com/user-attachments/assets/c1b640fc-c217-4c5f-9c2d-7c3af53ebed0)
+![image](https://github.com/user-attachments/assets/0a8b4f15-3c19-47d2-9896-d018a1c34ef0)
+
 
 
