@@ -10,27 +10,26 @@
 ### Kết quả đạt được:
 **1. Get All Countries:**
 
-![image](https://github.com/user-attachments/assets/caede7f4-f997-497e-880a-4c41ee85f623)
+![image](https://github.com/user-attachments/assets/da7c0f3b-7954-4f48-9054-078dd74267dc)
 
-![image](https://github.com/user-attachments/assets/f5a25291-e428-47b6-86ab-945f183221e2)
+![image](https://github.com/user-attachments/assets/e9d3b72a-7b2d-4b48-8377-15bd746466ef)
 
 **2. Get City By Name:**
 
-![image](https://github.com/user-attachments/assets/f830e343-31c4-49b4-928b-6fdc45a49d81)
+![image](https://github.com/user-attachments/assets/bd0919b6-ff15-4dd7-a92a-e30d35cfe78a)
 
-![image](https://github.com/user-attachments/assets/cf0a4353-0e39-45fa-aaf6-0eb53af3c28f)
+![image](https://github.com/user-attachments/assets/fb9b777d-857a-45a1-b366-c94c02e9fbdb)
 
 **3. Get Country By Country Code:**
 
-![image](https://github.com/user-attachments/assets/658c3793-5c86-4c3a-b05c-015c1fe87555)
+![image](https://github.com/user-attachments/assets/790e3e74-7292-4a31-8a49-b8507cee8aee)
 
-![image](https://github.com/user-attachments/assets/4deea098-9b17-49ae-9d49-d8a91f916235)
-
+![image](https://github.com/user-attachments/assets/757ce7d5-0aa4-4ed7-8d92-641efa19eb41)
 
 **4. Get Cities By CountryCode:**
 
-![image](https://github.com/user-attachments/assets/8be7eb20-41db-44c3-a184-3894dc8dadf5)
+![image](https://github.com/user-attachments/assets/52144cf7-ea6e-4c67-8ae7-c8e5c8fef521)
 
-![image](https://github.com/user-attachments/assets/2f2a2791-e349-4fe4-b194-b94e68018018)
+![image](https://github.com/user-attachments/assets/c1b640fc-c217-4c5f-9c2d-7c3af53ebed0)
 
 
